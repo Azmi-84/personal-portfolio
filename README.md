@@ -1,0 +1,55 @@
+# Computational Design of Euplectella aspergillum-Inspired Basket
+
+## Summary
+
+Ocean has been a curious center for human beings from very ancient times. The deep ocean floor, especially abyssal zones up to 5,000 meters deep, presents an environment where nature turns into engineering. From the inspiration of the deep ocean sponge, *Euplectella aspergillum*, an innovative basket design prototype has been developed by using a computational tool.
+
+## Design Motivation
+
+*Euplectella aspergillum*, or Venus’ flower basket, is a species of glass sponge found in the deep waters of the Pacific Ocean, usually at depths below 500 m (1,600 ft). The body of this sponge is tubular, curved, and basket- or vase-like, which motivated the design of a new prototype of basket [^1].
+
+| Name | Image |
+| :---: | :---: |
+| Euplectella Aspergillum [^2] | ![Euplectella Aspergillum](/images/euplectella_aspergillum.jpg) |
+| Euplectella Aspergillum Ekeanos [^3] | ![Euplectella Aspergillum Ekeanos](/images/euplectella_aspergillum_ekeanos.jpg) |
+
+## CAD Design
+
+| View | Image |
+| :---: | :---: |
+| Left | ![](/images/left_view.JPG) |
+| Right | ![](/images/right_view.JPG) |
+| Back | ![](/images/back_view.JPG) |
+| Front | ![](/images/front_view.JPG) |
+| Top | ![](/images/top_view.JPG) |
+| Bottom | ![](/images/bottom_view.JPG) |
+| Section | ![](/images/section_view.JPG) |
+
+## Technologies Used
+
+- Software
+  - SolidWorks 2024 | Student Version
+
+## Applications [^4]
+
+- Gift Basket
+- Rattan Basket Vase
+- Indoor Plant Holder
+- Dresser Decor + Storage
+- Side Table Decor + Storage
+- Decorating with Baskets on the Wall
+
+## Design Limitations
+
+The design of the basket was developed as a prototype product. That’s why the real-life design considerations, including usability, accessibility, lifecycle analysis, material selection, proper design specification, monetization, and feasibility, have not been included.
+
+## Future Improvements
+
+There is a lot of room for improvement. Firstly, the computational design process of the basket was developed using the manual processing available in software, which took a lot of time. So, if any mistakes happen during the design process, it is very difficult to figure out why and where the mistake happened. Also, proper engineering analysis, including computational analysis and experimental testing, including real-life scenarios, should be considered in the future to convert this prototype into a real product.
+
+## References
+
+[^1]: [Venus' flower basket](https://en.wikipedia.org/wiki/Venus%27_flower_basket)
+[^2]: [Top of a A Venus flower basket sponge - Euplectella aspergillum](https://en.wikipedia.org/wiki/File:Expn4384_(27840605922).jpg)
+[^3]: [A spectacular group of Venus flower basket glass sponges (Euplectella aspergillum) glass sponges with a squat lobster in the middle](https://en.wikipedia.org/wiki/File:Euplectella_aspergillum_Okeanos.jpg)
+[^4]: [16 Uses of Wicker Basket: Storage and Decor Ideas That Wow](https://greenlivinglife.com/blogs/greenlife/uses-of-wicker-basket-storage-and-decor-ideas)
