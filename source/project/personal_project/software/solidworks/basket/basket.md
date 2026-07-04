@@ -6,8 +6,8 @@ Ocean has been a curious center for human beings from very ancient times. The de
 
 | Name | Image |
 | :---: | :---: |
-| Euplectella Aspergillum [^2] | ![Euplectella Aspergillum](/project/personal_project/software/solidworks/basket/images/euplectella_aspergillum.jpg) |
-| Euplectella Aspergillum Ekeanos [^3] | ![Euplectella Aspergillum Ekeanos](/project/personal_project/software/solidworks/basket/images/euplectella_aspergillum_ekeanos.jpg) |
+| Euplectella Aspergillum [^2] | ![Euplectella Aspergillum](/project/personal_project/software/solidworks/basket/images/basket_euplectella_aspergillum.jpg) |
+| Euplectella Aspergillum Ekeanos [^3] | ![Euplectella Aspergillum Ekeanos](/project/personal_project/software/solidworks/basket/images/basket_euplectella_aspergillum_ekeanos.jpg) |
 
 ---
 
@@ -15,21 +15,23 @@ Ocean has been a curious center for human beings from very ancient times. The de
 
 | View | Image |
 | :---: | :---: |
-| Isometric | ![Isometric View](/project/personal_project/software/solidworks/basket/images/isometric_view.JPG) |
-| Left | ![Left View](/project/personal_project/software/solidworks/basket/images/left_view.JPG) |
-| Right | ![Right View](/project/personal_project/software/solidworks/basket/images/right_view.JPG) |
-| Back | ![Back View](/project/personal_project/software/solidworks/basket/images/back_view.JPG) |
-| Front | ![Front View](/project/personal_project/software/solidworks/basket/images/front_view.JPG) |
-| Top | ![Top View](/project/personal_project/software/solidworks/basket/images/top_view.JPG) |
-| Bottom | ![Bottom View](/project/personal_project/software/solidworks/basket/images/bottom_view.JPG) |
-| Section | ![Section View](/project/personal_project/software/solidworks/basket/images/section_view.JPG) |
+| Isometric | ![Isometric View](/project/personal_project/software/solidworks/basket/images/basket_isometric_view.JPG) |
+| Left | ![Left View](/project/personal_project/software/solidworks/basket/images/basket_left_view.JPG) |
+| Right | ![Right View](/project/personal_project/software/solidworks/basket/images/basket_right_view.JPG) |
+| Back | ![Back View](/project/personal_project/software/solidworks/basket/images/basket_back_view.JPG) |
+| Front | ![Front View](/project/personal_project/software/solidworks/basket/images/basket_front_view.JPG) |
+| Top | ![Top View](/project/personal_project/software/solidworks/basket/images/basket_top_view.JPG) |
+| Bottom | ![Bottom View](/project/personal_project/software/solidworks/basket/images/basket_bottom_view.JPG) |
+| Section | ![Section View](/project/personal_project/software/solidworks/basket/images/basket_section_view.JPG) |
 
 ---
 
 ## Technologies Used
 
-- Software
-  - SolidWorks 2024 | Student Version
+| Purpose | Name |
+| :---: | :---: |
+| Design | SolidWorks 2024 (Student Version) |
+
 
 ---
 

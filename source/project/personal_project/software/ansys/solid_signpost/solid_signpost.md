@@ -8,7 +8,7 @@
 
 | View | Image |
 | :---: | :---: |
-| Isometric | ![](/images/analysis_settings.bmp) |
+| Isometric | ![](/images/solid_signpost_analysis_settings.bmp) |
 
 ## Technologies Used
 

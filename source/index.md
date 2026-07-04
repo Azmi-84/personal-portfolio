@@ -55,15 +55,15 @@
 
 | Name | Image |
 | :--- | :---: |
-| [Computational Design of Euplectella aspergillum-Inspired Basket](/project/personal_project/software/solidworks/basket/basket.md) | ![Isometric View](/project/personal_project/software/solidworks/basket/images/isometric_view.JPG) |
-| [Computational Design of Artistic Table Pattern](/project/personal_project/software/solidworks/artistic_table_pattern/artistic_table_pattern.md) | ![Isometric View](/project/personal_project/software/solidworks/artistic_table_pattern/images/isometric_view.JPG) |
-| [Computational Design of a Contemporary Bench](/project/personal_project/software/solidworks/contemporary_bench/contemporary_bench.md) | ![Isometric View](/project/personal_project/software/solidworks/contemporary_bench/images/isometric_view.JPG) |
-| [Computational Design of an iPad Cover](/project/personal_project/software/solidworks/ipad_cover/ipad_cover.md) | ![Isometric View](/project/personal_project/software/solidworks/ipad_cover/images/isometric_view.JPG) |
-| [Computational Design of Chesterfield](/project/personal_project/software/solidworks/chesterfield/chesterfield.md) | ![Isometric View](/project/personal_project/software/solidworks/chesterfield/images/isometric_view.JPG) |
-| [Computational Design of Knruling on Curved Surface](/project/personal_project/software/solidworks/knruling_on_curved_surface/knruling_on_curved_surface.md) | ![Isometric View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/isometric_view.JPG) |
-| [Computational Design of Leaf Pattern on Ring](/project/personal_project/software/solidworks/leaf_pattern_on_ring/leaf_pattern_on_ring.md) | ![Isometric View](/project/personal_project/software/solidworks/leaf_pattern_on_ring/images/isometric_view.JPG) |
-| [Computational Design of Spur Gear](/project/personal_project/software/solidworks/spur_gear/spur_gear.md) | ![Isometric View](/project/personal_project/software/solidworks/spur_gear/images/isometric_view.JPG) |
-| [Computational Design of Complex Product Model](/project/personal_project/software/solidworks/complex_product_model/complex_product_model.md) | ![Isometric View](/project/personal_project/software/solidworks/complex_product_model/images/isometric_view.JPG) |
+| [Computational Design of Euplectella aspergillum-Inspired Basket](/project/personal_project/software/solidworks/basket/basket.md) | ![Isometric View](/project/personal_project/software/solidworks/basket/images/basket_isometric_view.JPG) |
+| [Computational Design of Artistic Table Pattern](/project/personal_project/software/solidworks/artistic_table_pattern/artistic_table_pattern.md) | ![Isometric View](/project/personal_project/software/solidworks/artistic_table_pattern/images/artistic_table_pattern_isometric_view.JPG) |
+| [Computational Design of a Contemporary Bench](/project/personal_project/software/solidworks/contemporary_bench/contemporary_bench.md) | ![Isometric View](/project/personal_project/software/solidworks/contemporary_bench/images/contemporary_bench_isometric_view.JPG) |
+| [Computational Design of an iPad Cover](/project/personal_project/software/solidworks/ipad_cover/ipad_cover.md) | ![Isometric View](/project/personal_project/software/solidworks/ipad_cover/images/ipad_cover_isometric_view.JPG) |
+| [Computational Design of Chesterfield](/project/personal_project/software/solidworks/chesterfield/chesterfield.md) | ![Isometric View](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_isometric_view.JPG) |
+| [Computational Design of Knruling on Curved Surface](/project/personal_project/software/solidworks/knruling_on_curved_surface/knruling_on_curved_surface.md) | ![Isometric View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_isometric_view.JPG) |
+| [Computational Design of Leaf Pattern on Ring](/project/personal_project/software/solidworks/leaf_pattern_on_ring/leaf_pattern_on_ring.md) | ![Isometric View](/project/personal_project/software/solidworks/leaf_pattern_on_ring/images/leaf_pattern_on_ring_isometric_view.JPG) |
+| [Computational Design of Spur Gear](/project/personal_project/software/solidworks/spur_gear/spur_gear.md) | ![Isometric View](/project/personal_project/software/solidworks/spur_gear/images/spur_gear_isometric_view.JPG) |
+| [Computational Design of Complex Product Model](/project/personal_project/software/solidworks/complex_product_model/complex_product_model.md) | ![Isometric View](/project/personal_project/software/solidworks/complex_product_model/images/complex_product_model_isometric_view.JPG) |
 
 ### Engineering
 

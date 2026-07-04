@@ -16,14 +16,14 @@
 
 | View | Image |
 | :---: | :---: |
-| Isometric | ![Isometric View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/isometric_view.JPG) |
-| Left | ![Left View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/left_view.JPG) |
-| Right | ![Right View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/right_view.JPG) |
-| Back | ![Back View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/back_view.JPG) |
-| Front | ![Front View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/front_view.JPG) |
-| Top | ![Top View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/top_view.JPG) |
-| Bottom | ![Bottom View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/bottom_view.JPG) |
-| Section | ![Section View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/section_view.JPG) |
+| Isometric | ![Isometric View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_isometric_view.JPG) |
+| Left | ![Left View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_left_view.JPG) |
+| Right | ![Right View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_right_view.JPG) |
+| Back | ![Back View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_back_view.JPG) |
+| Front | ![Front View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_front_view.JPG) |
+| Top | ![Top View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_top_view.JPG) |
+| Bottom | ![Bottom View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_bottom_view.JPG) |
+| Section | ![Section View](/project/personal_project/software/solidworks/knruling_on_curved_surface/images/knruling_on_curved_surface_section_view.JPG) |
 
 ## Technologies Used
 

@@ -16,14 +16,14 @@
 
 | View | Image |
 | :---: | :---: |
-| Isometric | ![Isometric](/project/personal_project/software/solidworks/chesterfield/images/isometric_view.JPG) |
-| Left | ![Left](/project/personal_project/software/solidworks/chesterfield/images/left_view.JPG) |
-| Right | ![Right](/project/personal_project/software/solidworks/chesterfield/images/right_view.JPG) |
-| Back | ![Back](/project/personal_project/software/solidworks/chesterfield/images/back_view.JPG) |
-| Front | ![Front](/project/personal_project/software/solidworks/chesterfield/images/front_view.JPG) |
-| Top | ![Top](/project/personal_project/software/solidworks/chesterfield/images/top_view.JPG) |
-| Bottom | ![Bottom](/project/personal_project/software/solidworks/chesterfield/images/bottom_view.JPG) |
-| Section | ![Section](/project/personal_project/software/solidworks/chesterfield/images/section_view.JPG) |
+| Isometric | ![Isometric](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_isometric_view.JPG) |
+| Left | ![Left](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_left_view.JPG) |
+| Right | ![Right](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_right_view.JPG) |
+| Back | ![Back](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_back_view.JPG) |
+| Front | ![Front](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_front_view.JPG) |
+| Top | ![Top](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_top_view.JPG) |
+| Bottom | ![Bottom](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_bottom_view.JPG) |
+| Section | ![Section](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_section_view.JPG) |
 
 ## Technologies Used
 
