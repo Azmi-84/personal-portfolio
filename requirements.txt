@@ -1,0 +1,6 @@
+sphinx
+myst-parser
+sphinx-design
+sphinx-nefertiti
+sphinx_rtd_theme
+sphinx-autobuild
