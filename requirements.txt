@@ -1,6 +1,16 @@
+numpy
+torch
+gradio
+mlflow
+pandas
+joblib
 sphinx
+seaborn
+matplotlib
+setuptools
 myst-parser
+scikit-learn
 sphinx-design
-sphinx-nefertiti
 sphinx_rtd_theme
 sphinx-autobuild
+fg-data-profiling

@@ -1,5 +1,8 @@
 .wy-table-responsive {
     overflow-x: auto;
+    /*text-align: justify;*/
+    font-weight: bold;
+    /*font-style: italic;*/
 }
 
 .wy-table-responsive table td,

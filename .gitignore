@@ -12,5 +12,8 @@ wheels/
 # Design files
 **/designs/
 
-# Personal image
-/source/images
+# Analysis files
+**/analysis/
+
+# Research work
+**/research_work

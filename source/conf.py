@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "."
+project = "Abdullah al Azmi"
 copyright = "2026, Abdullah al Azmi"
 author = "Abdullah al Azmi"
 release = "0.1"
@@ -17,7 +17,16 @@ release = "0.1"
 extensions = ["myst_parser", "sphinx_design"]
 
 templates_path = ["_templates"]
-exclude_patterns = []
+exclude_patterns = [
+    ".venv",
+    ".git",
+    ".SLDPRT",
+    "LICENSE",
+    "README.md",
+    ".gitignore",
+    "**/analysis/**",
+    "**/programming/**",
+]
 
 
 # -- Options for HTML output -------------------------------------------------

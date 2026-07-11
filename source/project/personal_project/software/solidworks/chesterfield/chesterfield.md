@@ -4,13 +4,9 @@
 
 
 
-## Design Motivation
-
-
-
 | Name | Image |
 | :---: | :---: |
-
+| Chesterfield Sofa[^1] | ![Chesterfield Sofa](/project/personal_project/software/solidworks/chesterfield/images/chesterfield_sofa_image.jpg) |
 
 ## CAD Design
 
@@ -46,3 +42,5 @@
 
 
 ## References
+
+[^1]: [Photo by Hal Gatewood](https://unsplash.com/photos/brown-leather-chesterfield-sofa-Vfml26Iy4mI)
