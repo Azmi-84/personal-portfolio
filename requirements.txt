@@ -15,6 +15,8 @@ xgboost
 pandera
 lightgbm
 ipykernel
+pathlib
+kagglehub
 tensorflow
 matplotlib
 setuptools

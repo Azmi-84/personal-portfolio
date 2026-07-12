@@ -1,3 +1,5 @@
+# The data.raw_path is used when downloading the dataset from Kaggle or any other source.
+
 data:
   raw_path: "data/raw/social_media_user_behaviour.csv"
   processed_dir: "data/processed"
