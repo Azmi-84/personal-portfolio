@@ -42,6 +42,10 @@
 
 ## Projects
 
+### Python Fundamental
+
+[Python Fundamental](/project/personal_project/software/programming/python/learning_module/learning_module.md)
+
 ### Machine Learning
 
 ### Computational Mechanics

@@ -7,7 +7,8 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
+venv/
 
 # Design files
 **/designs/
@@ -21,3 +22,22 @@ wheels/
 # Dataset
 **/data
 **/dataset
+
+# marimo session
+**/__marimo__
+
+# Social media user behaviour analysis
+**/mlruns
+**/mlflow.db
+**/.pkl
+**/.DS_Store
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+**/reports/eda/*.html
+**/flagged/*
+**/.pytest_cache/
+**/.ruff_cache/
+**/*.egg-info/
+**/.env
+**/resources
