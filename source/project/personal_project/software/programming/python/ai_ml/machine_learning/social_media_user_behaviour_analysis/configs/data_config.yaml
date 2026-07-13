@@ -1,0 +1,36 @@
+# The data.raw_path is used when downloading the dataset from Kaggle or any other source.
+
+data:
+  raw_path: "data/raw/social_media_user_behaviour.csv"
+  processed_dir: "data/processed"
+
+  # TODO: set this to your real target/label column once you've decided
+  # what you're predicting (e.g. an addiction/engagement score, a user
+  # category, churn, etc.)
+  target_column: "target_column_placeholder"
+
+  # "classification" or "regression" - TODO confirm based on target_column
+  task_type: "classification"
+
+  # Columns that are identifiers, not predictive signal (dropped before training)
+  id_columns:
+    - "user_id"
+
+  test_size: 0.2
+  random_state: 42
+
+# This list is the output of your fg-data-profiling report review, not a guess.
+# Workflow: run `make profile`, open reports/eda/profiling_report.html,
+# record WHY each decision was made in docs/eda_decisions.md, then reflect
+# the final decision here.
+selected_features:
+  - "age"                 # TODO: replace with your real, EDA-justified feature list
+  - "daily_usage_minutes"
+  - "platform"
+  - "number_of_apps_used"
+
+dropped_features:
+  - column: "user_id"
+    reason: "Identifier, no predictive value"
+  # TODO: add every dropped column here with a one-line reason;
+  # the fuller rationale lives in docs/eda_decisions.md
