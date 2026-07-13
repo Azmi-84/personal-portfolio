@@ -1,10 +1,10 @@
 # Minimal makefile for Sphinx documentation
 # You can set these variables from the command line, and also
 # from the environment for the first two.
-SPHINXOPTS    ?=
-SPHINXBUILD   ?= sphinx-build
-SOURCEDIR     = source
-BUILDDIR      = build
+SPHINXOPTS     ?=
+SPHINXBUILD    ?= sphinx-build
+SOURCEDIR      = source
+BUILDDIR       = build
 
 PROJECT_DIR          = $(SOURCEDIR)/project
 PERSONAL_PROJECT_DIR = $(PROJECT_DIR)/personal_project
@@ -50,24 +50,24 @@ mlflow-server:
 	mlflow server --backend-store-uri sqlite:///$(SMUBA_DIR)/mlflow.db --default-artifact-root ./mlruns --host 127.0.0.1 --port 5000
 
 profile:
-	python --data $(SMUBA_DIR)/data/raw/instagram_usage_lifestyle.csv --output $(SMUBA_DIR)/reports/eda/profiling_report.html
+	cd $(SMUBA_DIR) && PYTHONPATH=src python -m smuba.data.profiling --data data/raw/instagram_usage_lifestyle.csv --output reports/eda/profiling_report.html
 
 # usage: make train MODEL=random_forest
 train:
-	cd $(SMUBA_DIR) && smuba-train --data data/raw/instagram_usage_lifestyle.csv --model $(MODEL) --promote
+	cd $(SMUBA_DIR) && PYTHONPATH=src python -m smuba.pipelines.training_pipeline --data data/raw/instagram_usage_lifestyle.csv --model $(MODEL) --promote
 
 # usage: make retrain MODEL=random_forest DATA=data/raw/new_batch.csv
 retrain:
-	cd $(SMUBA_DIR) && smuba-retrain --data $(DATA) --model $(MODEL)
+	cd $(SMUBA_DIR) && PYTHONPATH=src python -m smuba.pipelines.retrain --data $(DATA) --model $(MODEL)
 
 test:
-	cd $(SMUBA_DIR) && pytest -q
+	cd $(SMUBA_DIR) && PYTHONPATH=src pytest -q
 
 lint:
 	cd $(SMUBA_DIR) && ruff check src tests
 
 serve-api:
-	cd $(SMUBA_DIR) && uvicorn smuba.serving.api:app --reload --port 8000
+	cd $(SMUBA_DIR) && PYTHONPATH=src uvicorn smuba.serving.api:app --reload --port 8000
 
 serve-gradio:
-	cd $(SMUBA_DIR) && python -m smuba.serving.gradio_app
+	cd $(SMUBA_DIR) && PYTHONPATH=src python -m smuba.serving.gradio_app
